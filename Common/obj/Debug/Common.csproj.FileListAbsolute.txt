@@ -1,0 +1,14 @@
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\bin\Debug\Common.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\bin\Debug\Common.pdb
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\bin\Debug\LinqToExcel.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\bin\Debug\log4net.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\bin\Debug\Mono.Linq.Expressions.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\bin\Debug\Remotion.Data.Linq.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\bin\Debug\Remotion.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\bin\Debug\Remotion.Interfaces.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\bin\Debug\System.Linq.Dynamic.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\bin\Debug\LinqToExcel.xml
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\bin\Debug\log4net.xml
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\obj\Debug\Common.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Common\obj\Debug\Common.pdb

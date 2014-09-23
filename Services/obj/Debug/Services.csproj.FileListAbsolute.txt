@@ -1,0 +1,4 @@
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Services\bin\Debug\Services.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Services\bin\Debug\Services.pdb
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Services\obj\Debug\Services.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Services\obj\Debug\Services.pdb

@@ -1,0 +1,9 @@
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Client\bin\Client.dll.config
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Client\bin\Client.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Client\bin\Client.pdb
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Client\obj\Debug\Client.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Client\obj\Debug\Client.pdb
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Client\bin\JFrog.Artifactory.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Client\bin\Microsoft.Web.XmlTransform.dll
+c:\users\assaf\documents\visual studio 2013\Projects\Web.Client.Server.Demo\Client\bin\NuGet.Core.dll
